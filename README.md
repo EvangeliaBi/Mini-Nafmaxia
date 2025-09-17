@@ -1,4 +1,5 @@
 Initial state:
+
 ● Sea 5x5 board.
 
 ● 3 small ships, each ship: occupies one cell○ is located in a row x and a column y.
