@@ -8,17 +8,17 @@
 
 3. Features:
 
-• Dynamic creation of a 5×5 board
+  • Dynamic creation of a 5×5 board
 
-• Random placement of 4 ships without overlap
+  • Random placement of 4 ships without overlap
 
-• Update with "hit" or "miss" for each shot
+  • Update with "hit" or "miss" for each shot
 
-• Indication of the number of ships in each row and column (hints)
+  • Indication of the number of ships in each row and column (hints)
 
-• Display of the board with symbols: 
-  • unread cell• missed shot
-  • successful shot
+  • Display of the board with symbols: 
+    • unread cell• missed shot
+    • successful shot
 
 4. Game Rules:
    1. Place 4 ships, each occupying one cell.
