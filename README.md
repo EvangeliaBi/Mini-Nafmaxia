@@ -33,6 +33,6 @@
 
 6. Prerequisites:
 
-• Java 8 or newer
+    • Java 8 or newer
 
-• (Optional) IDE like IntelliJ IDEA or Eclipse
+    • (Optional) IDE like IntelliJ IDEA or Eclipse
