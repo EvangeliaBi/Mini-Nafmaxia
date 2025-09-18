@@ -1,3 +1,7 @@
+## Demo
+
+![Παρουσίαση Εφαρμογής](demo.gif)
+
 1. Title: Mini-Nafmaxia
 
 2. Description: A console-based Java application that simulates a simplified "Battleship" game on a 5×5 board. It randomly places 4 small "ships" (each occupying one cell) that the player tries to locate by firing shots with row and column coordinates.
